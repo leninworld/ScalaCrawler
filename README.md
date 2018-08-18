@@ -10,4 +10,6 @@
 
 - Throttling
 
+- Follow "Mercator Scheme"
+
 - Sbt Project
