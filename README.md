@@ -1,7 +1,5 @@
 ### ScalaCrawler
 
-## Crawler:
-
 - should have multi threaded. Configure number of threads needed.
 
 - Non-blocking
